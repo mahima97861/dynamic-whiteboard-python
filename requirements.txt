@@ -1,3 +1,23 @@
 tk
 pillow
 matplotlib
+
+LINE GRAPH
+plt.plot([1, 2, 3, 4], [10, 20, 15, 30])
+plt.title("Line Plot on Whiteboard")
+
+Scatter Plot:
+plt.scatter([1, 2, 3, 4], [10, 20, 15, 30])
+plt.title("Scatter Plot on Whiteboard")
+
+Bar Plot:
+plt.bar([1, 2, 3, 4], [10, 20, 15, 30])
+plt.title("Bar Plot on Whiteboard")
+
+Histogram:
+plt.hist([1, 2, 2, 3, 4, 5, 6], bins=5)
+plt.title("Histogram on Whiteboard")
+
+Pie Chart Code:
+plt.pie([10, 20, 30, 40], labels=["A", "B", "C", "D"], autopct='%1.1f%%')
+plt.title("Pie Chart on Whiteboard")
