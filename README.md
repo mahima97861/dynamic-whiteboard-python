@@ -1,4 +1,4 @@
-# dynamic-whiteboard-python
+# Dynamic-Whiteboard-Python
 An interactive whiteboard application built with Python, Tkinter, and Matplotlib that allows users to draw freely and generate dynamic plots by executing code in a built-in editor.
 
 This project is an interactive whiteboard application built using Python. It allows users to draw freely and generate dynamic visualizations using Matplotlib by writing code inside a built-in code editor.
