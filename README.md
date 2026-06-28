@@ -1,5 +1,11 @@
 # 🎨 Dynamic Whiteboard & Visualization Studio
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 ## 🚀 Overview
 
 Dynamic Whiteboard & Visualization Studio is an interactive desktop application built using Python that combines digital drawing tools with real-time data visualization.
