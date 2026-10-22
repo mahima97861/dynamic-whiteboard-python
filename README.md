@@ -12,8 +12,6 @@ Dynamic Whiteboard & Visualization Studio is an interactive desktop application 
 
 Users can draw freely on a virtual whiteboard and generate dynamic charts using an integrated Python code execution environment powered by Matplotlib.
 
-This project demonstrates GUI Development, Data Visualization, Event-Driven Programming, and Interactive Software Design.
-
 ---
 
 ## ✨ Features
