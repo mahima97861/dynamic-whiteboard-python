@@ -1,4 +1,4 @@
-# 🎨 Dynamic Whiteboard & Visualization Studio
+# 🎨 Dynamic Whiteboard & Visualization Studios
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
